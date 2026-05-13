@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/Gojo%20Gojo%20Satoru%20GIF%20-%20Gojo%20Gojo%20satoru%20Satoru%20gojo%20-%20GIF'leri%20Ke%C5%9Ffedin%20ve%20Payla%C5%9F%C4%B1n.gif" width="100%" alt="Jujutsu Kaisen Animation" />
+  <img src="https://img.sanishtech.com/u/b6d957a8f22d698974c4dd79d3abddc2.gif" width="100%" alt="Jujutsu Kaisen Animation" />
 </div>
 
 <div align="center">
