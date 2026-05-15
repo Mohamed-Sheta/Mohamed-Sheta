@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.sanishtech.com/u/b6d957a8f22d698974c4dd79d3abddc2.gif" width="100%" alt="Jujutsu Kaisen Animation" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%" alt="City Nights" />
 </div>
 
 <div align="center">
