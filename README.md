@@ -159,17 +159,15 @@ Goal   : Ship products people actually love
 - Proven ability to ship production-grade FastAPI services
 - Balanced skill set across ML, data science, and system design
 
----
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Sheta&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00F7F7&icon_color=00F7F7&text_color=ffffff&bg_color=0d1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Sheta&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=FF4D8D&currStreakLabel=00F7F7" width="48%" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Sheta&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7F7&text_color=ffffff&bg_color=0d1117" width="42%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Sheta&theme=tokyonight" width="55%" />
-</p>
+</p> -->
 
 ---
 
